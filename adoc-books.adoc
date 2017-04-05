@@ -1,0 +1,6 @@
+
+= Good Books - Must read
+
+== Technical
+- Design patterns by Gamma
+- Clean code by Martin

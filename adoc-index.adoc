@@ -1,0 +1,7 @@
+= Manikanth Kodthiwada
+
+== Important sites - informational
+
+- *Asciidoctor for creating HTML,PDF etc from simple text file* - http://asciidoctor.org[AsciiDoctor website]
+
+- * 
